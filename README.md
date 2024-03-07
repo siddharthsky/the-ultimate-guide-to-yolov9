@@ -11,9 +11,7 @@
 <p align="center">
   <a href="https://github.com/siddharthsky/the-ultimate-guide-to-yolov9/issues"><img src="https://img.shields.io/github/issues/siddharthsky/the-ultimate-guide-to-yolov9"></a> 
   <a href="https://github.com/siddharthsky/the-ultimate-guide-to-yolov9/stargazers"><img src="https://img.shields.io/github/stars/siddharthsky/the-ultimate-guide-to-yolov9"></a>
-
-  <a href="https://github.com/siddharthsky/google-gemini-yt-video-summarizer-AI-p/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/License-MIT-blue.svg">
+  <a href="https://github.com/siddharthsky/google-gemini-yt-video-summarizer-AI-p/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg">
   </a>
 </p>
 
