@@ -21,7 +21,6 @@
   <a href="#features">Training</a> •
   <a href="#features">Performance Evaluation</a> •
   <a href="#getting-started">Contributing</a> 
- 
 </p>
 
 <p align="center">
