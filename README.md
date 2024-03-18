@@ -27,7 +27,7 @@
   <a href="https://github.com/siddharthsky/google-gemini-yt-video-summarizer-AI-p"><img src=".gif" ></a>
 </p>
 
-<p>This repository contains a comprehensive guide to YOLOv9, a state-of-the-art object detection model (replace "state-of-the-art" with a more descriptive term if you have one).</p>
+<p>This repository contains a comprehensive guide to YOLOv9, a state-of-the-art object detection model.</p>
 
 <h2>What is YOLOv9?</h2>
 
